@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "IPL_Cricket_League", "IPL_Cricket_League\IPL_Cricket_League.dtproj", "{8149582F-506A-2B1D-A569-EAEE9EAEA272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8149582F-506A-2B1D-A569-EAEE9EAEA272}.Development|Default.ActiveCfg = Development
+		{8149582F-506A-2B1D-A569-EAEE9EAEA272}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A34E5322-3EE5-4CCA-94A0-91D6DD0C1765}
+	EndGlobalSection
+EndGlobal
